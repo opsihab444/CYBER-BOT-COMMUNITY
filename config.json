@@ -16,11 +16,10 @@
     "EMAIL": "",
     "PASSWORD": "",
     "OTPKEY": "",
-    "BOTNAME": "BALER BOT⚠️",
+    "BOTNAME": "BALERBOT⚠",
     "PREFIX": "/",
     "ADMINBOT": [
-        "61551005825239",
-    
+        "61551005825239"
     ],
     "NDH": [
         "100000478146113"
